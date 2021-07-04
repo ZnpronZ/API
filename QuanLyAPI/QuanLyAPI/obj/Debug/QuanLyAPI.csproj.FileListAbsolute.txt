@@ -1,0 +1,88 @@
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.dll.config
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.pdb
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.exe
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.exe.config
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.rsp
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\csi.exe
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\csi.rsp
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.AppContext.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.exe
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.exe.config
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.rsp
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\Newtonsoft.Json.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Net.Http.Formatting.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.WebHost.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\Newtonsoft.Json.xml
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Net.Http.Formatting.xml
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.xml
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.WebHost.xml
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csprojAssemblyReference.cache
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csproj.CoreCompileInputs.cache
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csproj.CopyComplete
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.dll
+D:\Workspace\Cpp\Lap Trinh API\BaiThucHanh\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.pdb
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.dll.config
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\QuanLyAPI.pdb
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.exe
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.exe.config
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\csc.rsp
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\csi.exe
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\csi.rsp
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.AppContext.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.exe
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.exe.config
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\vbc.rsp
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\Newtonsoft.Json.xml
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.xml
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csprojAssemblyReference.cache
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.csproj.CopyComplete
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.dll
+C:\Users\vuong\Downloads\API\QuanLyAPI\QuanLyAPI\obj\Debug\QuanLyAPI.pdb

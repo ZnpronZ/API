@@ -1,0 +1,3 @@
+﻿  Bai8.cpp
+C:\Users\vuong\Downloads\API\Bai8\Bai8.cpp(228,10): warning C4101: 'iLength': unreferenced local variable
+  Bai8.vcxproj -> C:\Users\vuong\Downloads\API\Bai8\Debug\Bai8.exe

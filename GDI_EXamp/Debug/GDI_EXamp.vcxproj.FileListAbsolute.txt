@@ -1,0 +1,2 @@
+C:\Users\vuong\Downloads\API\GDI_EXamp\Debug\GDI_EXamp.exe
+C:\Users\vuong\Downloads\API\GDI_EXamp\Debug\GDI_EXamp.pdb

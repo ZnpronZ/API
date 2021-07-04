@@ -1,0 +1,268 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    
+
+   
+    <title></title>
+    <style>
+   td.title{
+            width: 150px;
+            background-color: powderblue;
+        }
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        input[type=text]{
+            width:100%;
+            height:30px;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing:border-box;
+        }
+        
+           /*button#them{
+               background-color:rosybrown;
+               margin-left: 130px;
+              
+           }*/
+        form {
+            border: 2px solid #80808000;
+ 
+            position: relative;
+            border-radius: 15px;
+            box-shadow: 0px 0px 14px 0px grey;
+            background-color: gainsboro;
+            height: 340px;
+            width: 400px;
+          
+        }
+          
+        table tr:nth-child(odd) {
+            background-color: #eee;
+        }
+
+        table tr:nth-child(even) {
+            background-color: white;
+          
+        }
+       body{
+           margin-left:50px;
+       }
+       div#search{
+           margin-left: 580px;
+       }
+        h1 {
+            margin-left: 200px;
+        
+        }
+       input#tk{
+           width:250px;
+           height: 30px;
+       }
+        .container_swap{
+            width:600px;
+            display:inline-block;
+        }
+
+        .div_left {
+            width: 100px;
+            float: left;
+            
+          
+        }
+
+        .div_right {
+            width: 100px;
+           float:right;
+      
+        }
+       
+    </style>
+</head>
+<body>
+    <h1> Danh sách các sinh viên</h1>
+    <div id="search">
+        <input type="text" id="tk" />
+        <button id="timkiem">Tìm kiếm</button>
+    </div>
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <td class="title">Mã sinh viên</td>
+                <td class="title">Họ và tên</td>
+                <td class="title">Giới Tính </td>
+                <td class="title">Địa chỉ</td>
+                <td class="title">Số điện thoại</td>
+                <td class="title"> Chức năng</td>
+            </tr>
+        </thead>
+        <tbody id="loaddata">
+        </tbody>
+
+    </table>
+    <br />
+    <div class="container_swap">
+
+        <div class="div_left">
+            <form action="https://localhost:44394/Web_client/JS/Index1.html">
+                <label>Mã sinh viên : </label>
+                <input id="maSV" type="text" />
+
+                <label>Họ tên : </label>
+                <input id="name" type="text" />
+
+                <label>Giới tính: </label>
+                <input id="gioitinh" type="text" />
+                <label>Địa chỉ: </label>
+                <input id="adrr" type="text" />
+                <label>Điện thoại: </label>
+                <input id="phone" type="text" />
+                <button id="them">Thêm Sinh Viên</button>
+                <button id="btnsua" style="display: none">Chấp nhận sửa</button>
+          </form>
+            
+        </div>
+      
+        <div class="div_right">
+            <form >
+                <h2>Kết quả tìm kiếm</h2>
+                <br />
+                <table>
+                    <thead>
+                        <tr>
+                            <td class="title">Mã sinh viên</td>
+                            <td class="title">Họ và tên</td>
+                            <td class="title">Giới Tính </td>
+                            <td class="title">Địa chỉ</td>
+                            <td class="title">Số điện thoại</td>
+
+                    </thead>
+                    <tbody id="loadtk"></tbody> <!--Dùng để load tất cả danh sách sinh viên thành bảng -->
+                </table>
+            </form>
+        </div>
+        </div>
+        <script src="../CSS/jquery.min.js"></script> <!--dùng thư viện jquery-->
+        <script>
+           
+            $(document).ready(function () {//kích hoạt sự kiện ngay khi DOM Tree được load và trước khi toàn bộ nội dung của trang được load
+
+                LoadData();//-gọi hàm LoadData 
+               
+                function LoadData() {//xử lí hàm LoadData
+                    $.ajax({ //sử dụng ajax để lấy dữ liệu từ API
+                        url: 'https://localhost:44394/api/students',//đường link để gửi yêu cầu lấy dữ liệu API
+                        method: 'GET',//dùng phương thưc get để láy tất cả sinh viên
+                        contentType: 'application/json',//dữ liệu trả về dưới dạng Json
+                        success: function (rs) {//nếu thành công thì
+                            const len = rs.length// trả về độ dài của chuỗi
+                            console.log(rs) // đưa ra dữ liệu trả về trong console
+                            for (var i = 0; i < len; ++i) { //duyết qua tất cả các phẩn tử
+
+                                $('#loaddata').append(`<tr><td> ${rs[i].MaSV} </td><td>${rs[i].HoTen}</td><td>${rs[i].GioiTinh}</td><td>${rs[i].DiaChi}</td>
+<td>${rs[i].DienThoai}</td><td><button class="bttXoa" data-id="${rs[i].MaSV}">Xóa</button> <button class="bttSua" data-id="${rs[i].MaSV}">Sửa</button></td></tr>`)
+                //Chèn nội dung, di chuyển thành phần vào trong tbody có id là loaddata.
+                            }
+
+                            $(".bttXoa").click(function () {//khi click vào nút xóa
+
+                                console.log($(this).data().id) //lấy id  (mã sinh viên) tương ứng
+                                const link = `https://localhost:44394/api/students/delete/${$(this).data().id}` //tương tự như get
+
+                                $.ajax({
+                                    url: link,
+                                    method: 'DELETE',//dùng phương thức xóa
+                                    contentType: 'application/json',// dữ liệu trả về dưới dạng Json
+                                    success: function (rs) {
+
+                                    }
+                                })
+                            })
+                            $('#them').click(function () {//khi nút thêm đc click
+                                if ($("#maSV").val() == '' || $("#name").val() == '' || $("#gioitinh").val() == '' || $("#adrr").val() == '' || $("#phone").val() == '') {
+                                    alert('Vui lòng nhập tất cả các trường!!!')
+                                }
+                                const link = `https://localhost:44394/api/students?Ma=${$("#maSV").val()}&ten=${$("#name").val()}&gioitinh=${$("#gioitinh").val()}&adrr=${$("#adrr").val()}&phone=${$("#phone").val()}`
+                                //$('form').attr('action', link)
+                                $.ajax({
+                                    url: link,
+                                    method: 'POST',
+                                    contentType: 'application/json',// dữ liệu trả về dưới dạng Json
+                                    success: function (rs) {
+                                    }
+                                })
+
+                            })
+                           
+                            $("#timkiem").click(function () {//khi click vào nút tìm kiếm
+                               
+                                const link = `https://localhost:44394/api/students/get/${$("#tk").val()}`
+                             
+                                $.ajax({
+                                    url: link,
+                                    method: 'GET',//dùng phương thức get
+                                    contentType: 'application/json',// dữ liệu trả về dưới dạng Json
+                                    success: function (rs) {
+                                        $('#loadtk').html("")//load lại trang
+                                        $('#loadtk').append(`<tr><td> ${rs.MaSV} </td><td>${rs.HoTen}</td><td>${rs.GioiTinh}</td><td>${rs.DiaChi}</td><td>${rs.DienThoai}</td>`)
+                                        //Chèn nội dung, di chuyển thành phần vào trong tbody có id là loadtk.
+                                    }
+                                })
+                            })
+                            let id;
+                            $(".bttSua").click(function () {//khi click vào nút sửa
+                                console.log($(this).data().id);
+                                id = $(this).data().id
+                                $('#btnsua').css('display', 'block')//nút sửa hiện
+                                $('#them').css('display', 'none')//tắt nút thêm
+                                const link = `https://localhost:44394/api/students/get/${$(this).data().id}`
+
+                                $.ajax({
+                                    url: link,
+                                    method: 'GET',//dùng phương thức get
+                                    contentType: 'application/json',// dữ liệu trả về dưới dạng Json
+                                    success: function (rs) {
+                                        $('#maSV').val(rs.MaSV)// dữ liệu ra các ô input
+                                        $('#name').val(rs.HoTen)
+                                        $('#gioitinh').val(rs.GioiTinh)
+                                        $('#adrr').val(rs.DiaChi)
+                                        $('#phone').val(rs.DienThoai)
+                                    }
+                                })
+                            })
+                            $('#btnsua').css('display', 'none')
+                            $('#them').css('display', 'block')
+
+                                $('#btnsua').click(function () {//click vào nút xác nhận sửa
+                                    const linksua = `https://localhost:44394/api/students?Ma=${id}&ten=${$("#name").val()}&gioitinh=${$("#gioitinh").val()}&adrr=${$("#adrr").val()}&phone=${$("#phone").val()}`
+                                    $.ajax({
+                                        url: linksua,
+                                        method: "PUT",//dùng phương thức put
+                                        contentType: "application/json",// dữ liệu trả về dưới dạng Json
+                                        success: function (list) {
+                                            console.log(linksua)
+                                            console.log("success")
+                                           
+                                        }
+
+                                    })
+
+                                })
+                        }
+
+                    })
+                }
+            })
+
+        </script>
+</body>
+</html >

@@ -1,0 +1,5 @@
+﻿  ControlWINDOW.cpp
+C:\Users\vuong\Downloads\API\ControlWINDOW\ControlWINDOW.cpp(165,64): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\Users\vuong\Downloads\API\ControlWINDOW\ControlWINDOW.cpp(167,71): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\Users\vuong\Downloads\API\ControlWINDOW\ControlWINDOW.cpp(177,66): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+  ControlWINDOW.vcxproj -> C:\Users\vuong\Downloads\API\ControlWINDOW\Debug\ControlWINDOW.exe

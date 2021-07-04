@@ -1,0 +1,201 @@
+E:\bong\Môn API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csprojAssemblyReference.cache
+E:\bong\Môn API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CoreCompileInputs.cache
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll.config
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\UngDungAPI.pdb
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe.config
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csc.rsp
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe.config
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\csi.rsp
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.AppContext.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Console.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Http.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Sockets.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.ValueTuple.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe.config
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.rsp
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Web.Http.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.xml
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.xml
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Web.Http.xml
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.xml
+E:\bong\Môn API\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bong\Môn API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CopyComplete
+E:\bong\Môn API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.dll
+E:\bong\Môn API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.pdb
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll.config
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\UngDungAPI.pdb
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe.config
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csc.rsp
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe.config
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\csi.rsp
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.AppContext.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Console.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Http.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Sockets.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.ValueTuple.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe.config
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\vbc.rsp
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Web.Http.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.xml
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.xml
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Web.Http.xml
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.xml
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csprojAssemblyReference.cache
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CoreCompileInputs.cache
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CopyComplete
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.dll
+E:\bong\Môn API\NguyenThiBong181203847CNTT4-K59\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.pdb
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll.config
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\UngDungAPI.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\UngDungAPI.pdb
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csc.exe.config
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csc.rsp
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csi.exe.config
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\csi.rsp
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.AppContext.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Console.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.exe.config
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\vbc.rsp
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Web.Http.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\Newtonsoft.Json.xml
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Web.Http.xml
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csprojAssemblyReference.cache
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.csproj.CopyComplete
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.dll
+C:\Users\vuong\Downloads\API\UngDungAPI\UngDungAPI\obj\Debug\UngDungAPI.pdb

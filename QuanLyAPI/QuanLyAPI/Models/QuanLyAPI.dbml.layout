@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QuanLyAPI">
+  <DataContextMoniker Name="/QuanLyAPIDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1bc340a4-05e3-45ee-8e4c-b3eacab3b7f4" absoluteBounds="3.5, 1.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/QuanLyAPIDataContext/tblHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2f1d811-58f0-47f8-b2f4-4048c2ebf446" absoluteBounds="3.515, 2.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

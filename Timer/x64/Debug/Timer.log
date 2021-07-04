@@ -1,0 +1,4 @@
+﻿  Timer.cpp
+C:\Users\vuong\Downloads\API\Timer\Timer.cpp(175,27): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\vuong\Downloads\API\Timer\Timer.cpp(182,27): warning C4553: '==': result of expression not used; did you intend '='?
+  Timer.vcxproj -> C:\Users\vuong\Downloads\API\Timer\x64\Debug\Timer.exe
